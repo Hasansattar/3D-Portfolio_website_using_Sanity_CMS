@@ -84,7 +84,7 @@ const Projects = ({ project }) => {
         </div>
         {/* -------- */}
 
-        <div className="sm:grid sm:grid-cols-2 lg:flex justify-center mx-auto mt-6">
+        <div className="sm:grid sm:grid-cols-2 lg:flex justify-center mx-auto mt-4">
           {projectList &&
             projectList.map((list, index) => (
               <motion.div key={index} data-aos="fade-right" name="portfolio">
