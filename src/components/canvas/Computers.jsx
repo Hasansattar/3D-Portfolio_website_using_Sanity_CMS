@@ -7,7 +7,7 @@ import CanvasLoader from "@/components/Loader";
 
 
 const Computers = ({ isMobile }) => {
-  const computer = useGLTF("https://hasansattar-portfolio1.netlify.app/desktop_pc/scene.gltf");
+  const computer = useGLTF("/desktop_pc/scene.gltf");
 
   return (
     <mesh>
