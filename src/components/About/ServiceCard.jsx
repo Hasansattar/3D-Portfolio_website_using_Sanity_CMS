@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 // react tilt
 import { Tilt } from "react-tilt";

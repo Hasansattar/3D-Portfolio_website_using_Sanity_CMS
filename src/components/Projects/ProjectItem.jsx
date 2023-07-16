@@ -1,3 +1,4 @@
+"use client"
 import React from "react";
 
 const ProjectItem = ({ title, active, setSelected, id }) => {
