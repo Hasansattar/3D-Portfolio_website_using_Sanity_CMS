@@ -3,7 +3,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import ServiceCard from "./ServiceCard";
 import { fadeIn, textVariant, staggerContainer } from "@/utils/motion";
-//import { SectionWrapper } from "@/hoc/index";
+
 
 const About = ({ service }) => {
   //console.log("about", service);

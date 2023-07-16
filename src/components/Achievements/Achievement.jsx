@@ -3,7 +3,7 @@ import React from "react";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 
-import { staggerContainer, fadeIn, textVariant } from "@/utils/motion";
+import { staggerContainer} from "@/utils/motion";
 import externellink from "@/assets/externellink.png";
 import Image from "next/image";
 

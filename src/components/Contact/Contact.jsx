@@ -3,7 +3,7 @@ import React, { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
 
-import {EarthCanvas}  from "@/components/index";
+import EarthCanvas  from "@/components/canvas/Earth";
 //import { SectionWrapper } from "../hoc";
 import { slideIn ,staggerContainer} from "@/utils/motion";
 

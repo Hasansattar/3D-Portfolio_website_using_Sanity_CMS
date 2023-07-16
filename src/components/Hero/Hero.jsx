@@ -1,6 +1,6 @@
 "use client"
 import { motion } from "framer-motion";
-import  {ComputersCanvas}  from "@/components/index";
+import  ComputersCanvas  from "@/components/canvas/Computers";
 
 
 const Hero = () => {
